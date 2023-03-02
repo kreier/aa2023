@@ -1,4 +1,4 @@
-# Advanced Autoamtion Artifacts 2023
+# Advanced Automation Artifacts 2023
 Some sniplets to fix code examples and artifacts.
 
 ## Landing a Rocket
